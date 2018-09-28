@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.apipay.web</groupId>
+  <artifactId>apipay-web-merchant</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180926103943</lastUpdated>
+  </versioning>
+</metadata>

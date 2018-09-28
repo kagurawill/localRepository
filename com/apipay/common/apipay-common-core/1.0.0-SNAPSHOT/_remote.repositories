@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 25 16:41:42 CST 2018
+apipay-common-core-1.0.0-SNAPSHOT.pom>=
+apipay-common-core-1.0.0-SNAPSHOT-sources.jar>=
+apipay-common-core-1.0.0-SNAPSHOT.jar>=

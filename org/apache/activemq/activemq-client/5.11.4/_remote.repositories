@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 25 15:47:03 CST 2018
+activemq-client-5.11.4.jar>central=
+activemq-client-5.11.4.pom>central=
+activemq-client-5.11.4-sources.jar>central=

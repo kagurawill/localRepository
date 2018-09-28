@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.apipay.common</groupId>
+  <artifactId>apipay-common-config</artifactId>
+  <versioning>
+    <versions>
+      <version>test-1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180925084116</lastUpdated>
+  </versioning>
+</metadata>
